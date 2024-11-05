@@ -1,9 +1,3 @@
-# AI-ANN-activities
-
-Here's a draft for a README file for your GitHub repository:
-
----
-
 # Academic Notebooks and Python Code Solutions
 
 Welcome to the repository for practical solutions and exercises related to courses in **Artificial Intelligence (AI)**, **Artificial Neural Networks (ANNs)**, and **Pattern Recognition**. This repository contains Jupyter notebooks and Python scripts developed as part of my Master's program at the [Federal Institute of Espírito Santo](https://www.ifes.edu.br/), specifically focusing on advanced AI topics.
