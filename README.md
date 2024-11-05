@@ -16,14 +16,6 @@ This repository showcases various implementations, exercises, and assignments fo
 - **Pattern Recognition**: Feature extraction, classification, clustering, and pattern analysis.
 - **Artificial Neural Networks (ANNs)**: Perceptrons, multilayer networks, backpropagation, and deep learning architectures.
 
-The repository is structured to make each topic accessible and organized, with explanations and comments to enhance comprehension.
-
-## Repository Structure
-
-- **`Artificial_Intelligence/`**: Solutions and examples covering fundamental AI concepts and applications.
-- **`Neural_Networks/`**: Implementations of neural networks, from basic perceptrons to deep learning models.
-- **`Pattern_Recognition/`**: Exercises and code related to pattern recognition techniques, including supervised and unsupervised learning tasks.
-
 The following libraries are frequently used across exercises:
 - `numpy`
 - `pandas`
